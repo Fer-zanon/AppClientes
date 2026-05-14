@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Appclientes.Data/Appclientes.Data.csproj" />
+  <Project Path="AppClientes.Domain/AppClientes.Domain.csproj" />
+  <Project Path="AppClientes.Interfaces/AppClientes.Interfaces.csproj" />
+  <Project Path="AppClientes.Providers/AppClientes.Providers.csproj" />
+  <Project Path="AppClientes.Shared/AppClientes.Shared.csproj" />
+  <Project Path="AppClientes/AppClientes.WebAPI.csproj" />
+</Solution>
