@@ -1,8 +1,12 @@
 <Solution>
-  <Project Path="Appclientes.Data/Appclientes.Data.csproj" />
-  <Project Path="AppClientes.Domain/AppClientes.Domain.csproj" />
-  <Project Path="AppClientes.Interfaces/AppClientes.Interfaces.csproj" />
-  <Project Path="AppClientes.Providers/AppClientes.Providers.csproj" />
-  <Project Path="AppClientes.Shared/AppClientes.Shared.csproj" />
-  <Project Path="AppClientes/AppClientes.WebAPI.csproj" />
+  <Folder Name="/00.Modules/">
+    <Project Path="../../../../../../source/repos/AppClientes/AppClientes/api/AppClientes/Appclientes.Data/Appclientes.Data.csproj" />
+    <Project Path="../../../../../../source/repos/AppClientes/AppClientes/api/AppClientes/AppClientes.Domain/AppClientes.Domain.csproj" />
+    <Project Path="../../../../../../source/repos/AppClientes/AppClientes/api/AppClientes/AppClientes.Interfaces/AppClientes.Interfaces.csproj" />
+    <Project Path="../../../../../../source/repos/AppClientes/AppClientes/api/AppClientes/AppClientes.Providers/AppClientes.Providers.csproj" />
+    <Project Path="../../../../../../source/repos/AppClientes/AppClientes/api/AppClientes/AppClientes.Shared/AppClientes.Shared.csproj" />
+  </Folder>
+  <Folder Name="/01.Host/">
+    <Project Path="../../../../../../source/repos/AppClientes/AppClientes/api/AppClientes/AppClientes/AppClientes.WebAPI.csproj" />
+  </Folder>
 </Solution>

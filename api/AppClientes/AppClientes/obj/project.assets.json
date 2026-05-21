@@ -89,9 +89,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes\\AppClientes.WebApi.csproj",
-      "projectName": "AppClientes.WebApi",
-      "projectPath": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes\\AppClientes.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes\\AppClientes.WebAPI.csproj",
+      "projectName": "AppClientes.WebAPI",
+      "projectPath": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes\\AppClientes.WebAPI.csproj",
       "packagesPath": "C:\\Users\\FernandoZanon\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes\\obj\\",
       "projectStyle": "PackageReference",
@@ -113,7 +113,6 @@
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {}
         }
@@ -132,7 +131,6 @@
     },
     "frameworks": {
       "net10.0": {
-        "framework": "net10.0",
         "targetAlias": "net10.0",
         "dependencies": {
           "Microsoft.AspNetCore.OpenApi": {
