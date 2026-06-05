@@ -3,12 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B6ED3EE-6B0A-38E1-12F5-712554F55561}|Appclientes.Data\\Appclientes.Data.csproj|c:\\users\\fernandozanon\\source\\repos\\appclientes\\appclientes\\api\\appclientes\\appclientes.data\\configurations\\businessconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B6ED3EE-6B0A-38E1-12F5-712554F55561}|Appclientes.Data\\Appclientes.Data.csproj|solutionrelative:appclientes.data\\configurations\\businessconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B6ED3EE-6B0A-38E1-12F5-712554F55561}|Appclientes.Data\\Appclientes.Data.csproj|c:\\users\\fernandozanon\\source\\repos\\appclientes\\appclientes\\api\\appclientes\\appclientes.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B6ED3EE-6B0A-38E1-12F5-712554F55561}|Appclientes.Data\\Appclientes.Data.csproj|solutionrelative:appclientes.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FBB8BD-11A8-BD1F-E8F0-4CFDD76E8945}|AppClientes\\AppClientes.WebAPI.csproj|c:\\users\\fernandozanon\\source\\repos\\appclientes\\appclientes\\api\\appclientes\\appclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FBB8BD-11A8-BD1F-E8F0-4CFDD76E8945}|AppClientes\\AppClientes.WebAPI.csproj|solutionrelative:appclientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1FBB8BD-11A8-BD1F-E8F0-4CFDD76E8945}|AppClientes\\AppClientes.WebAPI.csproj|c:\\users\\fernandozanon\\source\\repos\\appclientes\\appclientes\\api\\appclientes\\appclientes\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1FBB8BD-11A8-BD1F-E8F0-4CFDD76E8945}|AppClientes\\AppClientes.WebAPI.csproj|solutionrelative:appclientes\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08318EF-ABA3-1F66-FCE8-FEFA9A6480C6}|AppClientes.Domain\\AppClientes.Domain.csproj|c:\\users\\fernandozanon\\source\\repos\\appclientes\\appclientes\\api\\appclientes\\appclientes.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D08318EF-ABA3-1F66-FCE8-FEFA9A6480C6}|AppClientes.Domain\\AppClientes.Domain.csproj|solutionrelative:appclientes.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6405E8FE-9A22-7303-31ED-27663D6F4692}|AppClientes.Providers\\AppClientes.Providers.csproj|c:\\users\\fernandozanon\\source\\repos\\appclientes\\appclientes\\api\\appclientes\\appclientes.providers\\customers\\customerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6405E8FE-9A22-7303-31ED-27663D6F4692}|AppClientes.Providers\\AppClientes.Providers.csproj|solutionrelative:appclientes.providers\\customers\\customerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0469C9A9-44A1-BBE0-7F8E-202A6B4A6F84}|AppClientes.Interfaces\\AppClientes.Interfaces.csproj|c:\\users\\fernandozanon\\source\\repos\\appclientes\\appclientes\\api\\appclientes\\appclientes.interfaces\\customers\\icustomerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0469C9A9-44A1-BBE0-7F8E-202A6B4A6F84}|AppClientes.Interfaces\\AppClientes.Interfaces.csproj|solutionrelative:appclientes.interfaces\\customers\\icustomerprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B6ED3EE-6B0A-38E1-12F5-712554F55561}|Appclientes.Data\\Appclientes.Data.csproj|c:\\users\\fernandozanon\\source\\repos\\appclientes\\appclientes\\api\\appclientes\\appclientes.data\\appclientes.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{7B6ED3EE-6B0A-38E1-12F5-712554F55561}|Appclientes.Data\\Appclientes.Data.csproj|solutionrelative:appclientes.data\\appclientes.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0469C9A9-44A1-BBE0-7F8E-202A6B4A6F84}|AppClientes.Interfaces\\AppClientes.Interfaces.csproj|c:\\users\\fernandozanon\\source\\repos\\appclientes\\appclientes\\api\\appclientes\\appclientes.interfaces\\appclientes.interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0469C9A9-44A1-BBE0-7F8E-202A6B4A6F84}|AppClientes.Interfaces\\AppClientes.Interfaces.csproj|solutionrelative:appclientes.interfaces\\appclientes.interfaces.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D08318EF-ABA3-1F66-FCE8-FEFA9A6480C6}|AppClientes.Domain\\AppClientes.Domain.csproj|c:\\users\\fernandozanon\\source\\repos\\appclientes\\appclientes\\api\\appclientes\\appclientes.domain\\appclientes.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D08318EF-ABA3-1F66-FCE8-FEFA9A6480C6}|AppClientes.Domain\\AppClientes.Domain.csproj|solutionrelative:appclientes.domain\\appclientes.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,27 +59,118 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Appclientes.Data",
-              "DocumentMoniker": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\Appclientes.Data\\Appclientes.Data.csproj",
-              "RelativeDocumentMoniker": "Appclientes.Data\\Appclientes.Data.csproj",
-              "ToolTip": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\Appclientes.Data\\Appclientes.Data.csproj",
-              "RelativeToolTip": "Appclientes.Data\\Appclientes.Data.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-06-01T10:20:25.967Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes\\Program.cs",
+              "RelativeDocumentMoniker": "AppClientes\\Program.cs",
+              "ToolTip": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes\\Program.cs",
+              "RelativeToolTip": "AppClientes\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T11:02:28.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "AppClientes.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "AppClientes.Domain\\Entities\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T10:48:27.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BusinessConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\Appclientes.Data\\Configurations\\BusinessConfiguration.cs",
-              "RelativeDocumentMoniker": "Appclientes.Data\\Configurations\\BusinessConfiguration.cs",
-              "ToolTip": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\Appclientes.Data\\Configurations\\BusinessConfiguration.cs",
-              "RelativeToolTip": "Appclientes.Data\\Configurations\\BusinessConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAACAAAAAAAAAA==",
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\Appclientes.Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Appclientes.Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\Appclientes.Data\\AppDbContext.cs",
+              "RelativeToolTip": "Appclientes.Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T10:52:04.423Z",
+              "WhenOpened": "2026-06-01T10:47:47.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICustomerProvider.cs",
+              "DocumentMoniker": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes.Interfaces\\Customers\\ICustomerProvider.cs",
+              "RelativeDocumentMoniker": "AppClientes.Interfaces\\Customers\\ICustomerProvider.cs",
+              "ToolTip": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes.Interfaces\\Customers\\ICustomerProvider.cs",
+              "RelativeToolTip": "AppClientes.Interfaces\\Customers\\ICustomerProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T10:41:53.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomerProvider.cs",
+              "DocumentMoniker": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes.Providers\\Customers\\CustomerProvider.cs",
+              "RelativeDocumentMoniker": "AppClientes.Providers\\Customers\\CustomerProvider.cs",
+              "ToolTip": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes.Providers\\Customers\\CustomerProvider.cs",
+              "RelativeToolTip": "AppClientes.Providers\\Customers\\CustomerProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T10:41:14.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Appclientes.Data",
+              "DocumentMoniker": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\Appclientes.Data\\Appclientes.Data.csproj",
+              "RelativeDocumentMoniker": "Appclientes.Data\\Appclientes.Data.csproj",
+              "ToolTip": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\Appclientes.Data\\Appclientes.Data.csproj",
+              "RelativeToolTip": "Appclientes.Data\\Appclientes.Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-01T10:45:10.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppClientes.Interfaces",
+              "DocumentMoniker": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes.Interfaces\\AppClientes.Interfaces.csproj",
+              "RelativeDocumentMoniker": "AppClientes.Interfaces\\AppClientes.Interfaces.csproj",
+              "ToolTip": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes.Interfaces\\AppClientes.Interfaces.csproj",
+              "RelativeToolTip": "AppClientes.Interfaces\\AppClientes.Interfaces.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-01T10:45:04.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "AppClientes\\Controllers\\CustomersController.cs",
+              "ToolTip": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "AppClientes\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-01T10:36:30.329Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppClientes.Domain",
+              "DocumentMoniker": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes.Domain\\AppClientes.Domain.csproj",
+              "RelativeDocumentMoniker": "AppClientes.Domain\\AppClientes.Domain.csproj",
+              "ToolTip": "C:\\Users\\FernandoZanon\\source\\repos\\AppClientes\\AppClientes\\api\\AppClientes\\AppClientes.Domain\\AppClientes.Domain.csproj",
+              "RelativeToolTip": "AppClientes.Domain\\AppClientes.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-01T10:44:56.82Z",
               "EditorCaption": ""
             }
           ]

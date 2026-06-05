@@ -4,9 +4,8 @@ using System.Text;
 
 namespace AppClientes.Domain.Entities
 {
-	public class Customer
+	public class Customer : BaseEntity
 	{
-		public Guid Id { get; set; }
 
 		public Guid BusinessId { get; set; }
 
@@ -22,10 +21,6 @@ namespace AppClientes.Domain.Entities
 
 		public string? NotesSummary { get; set; }
 
-		public DateTimeOffset CreatedAt { get; set; }
-
-		public DateTimeOffset UpdatedAt { get; set; }
-
 		public Business Business { get; set; } = null!;
 
 		public ICollection<Note> Notes { get; set; } = new List<Note>();
@@ -33,5 +28,6 @@ namespace AppClientes.Domain.Entities
 		public ICollection<Reminder> Reminders { get; set; } = new List<Reminder>();
 
 		public ICollection<CustomerTag> CustomerTags { get; set; } = new List<CustomerTag>();
+		public ICollection<Pet> Pets { get; set; } = new List<Pet>();
 	}
 }

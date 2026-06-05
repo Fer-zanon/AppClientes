@@ -1,4 +1,4 @@
-﻿namespace AppClientes.WebAPI.Dtos.Customers;
+﻿namespace AppClientes.Shared.Dtos.Customers;
 
 public class CustomerListItemDto
 {

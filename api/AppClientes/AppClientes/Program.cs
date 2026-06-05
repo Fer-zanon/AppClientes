@@ -1,5 +1,7 @@
 using AppClientes.Data;
 using Microsoft.EntityFrameworkCore;
+using AppClientes.Interfaces.Customers;
+using AppClientes.Providers.Customers;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -14,7 +16,7 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 	options.UseNpgsql(
 		builder.Configuration.GetConnectionString("AppClientes"));
 });
-
+builder.Services.AddScoped<ICustomerProvider, CustomerProvider>();
 var app = builder.Build();
 
 app.UseSwagger();

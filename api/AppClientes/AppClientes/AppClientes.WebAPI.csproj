@@ -16,6 +16,8 @@
   <ItemGroup>
     <ProjectReference Include="..\Appclientes.Data\Appclientes.Data.csproj" />
     <ProjectReference Include="..\AppClientes.Domain\AppClientes.Domain.csproj" />
+    <ProjectReference Include="..\AppClientes.Providers\AppClientes.Providers.csproj" />
+    <ProjectReference Include="..\AppClientes.Shared\AppClientes.Shared.csproj" />
   </ItemGroup>
 
 </Project>

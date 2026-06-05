@@ -1,9 +1,15 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net8.0</TargetFramework>
+    <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Appclientes.Data\Appclientes.Data.csproj" />
+    <ProjectReference Include="..\AppClientes.Domain\AppClientes.Domain.csproj" />
+    <ProjectReference Include="..\AppClientes.Interfaces\AppClientes.Interfaces.csproj" />
+  </ItemGroup>
 
 </Project>
